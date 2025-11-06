@@ -20,21 +20,6 @@ a poet in the syntax of C, a believer in *craft over shortcuts.*
 
 ---
 
-### ✨ Highlights
-
-- 🧩 **Builder** — from low-level C to high-level vision.  
-- ⚙️ **Creator** — unique, rule-breaking implementations.  
-- 🤝 **Collaborator** — helping peers rise, one project at a time.  
-- 🕰️ **Learner** — every bug, a whisper from the machine.  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🎬 *"Carpe Diem."*
 
 <p align="center">
@@ -50,3 +35,9 @@ a poet in the syntax of C, a believer in *craft over shortcuts.*
 > 🌿 *“We are food for worms, lads...  
 > but while we’re here — to live, to feel, to create —  
 > that is our privilege.”*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="400" alt="Stars twinkling in night sky" />
+</p>
+
+
