@@ -78,7 +78,7 @@ a poet in the syntax of C, a believer in *craft over shortcuts.*
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="420" alt="Pacman animation aesthetic" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iNmE1YzM3cW5lNHBxeWQzaTdzaDQyN243Z3BvaW5seWI2eGNnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiPB21AVCQbMYI0dwm/giphy.gif" />
 </p>
 
 ---
