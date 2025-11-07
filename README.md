@@ -33,20 +33,6 @@ a poet in the syntax of C, a believer in *craft over shortcuts.*
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
-### 🎬 *"Carpe Diem."*
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Carpe+Diem.;Breathe+in+the+silence.;Let+the+dreams+unfold." alt="Carpe Diem Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="420" alt="Soft sunrise aesthetic animation" />
-</p>
-
----
-
 > 🌿 *“We are food for worms, lads...  
 > but while we’re here — to live, to feel, to create —  
 > that is our privilege.”*  
@@ -69,21 +55,5 @@ a poet in the syntax of C, a believer in *craft over shortcuts.*
   <a href="mailto:hamzaallaoui.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=F9D71C&center=true&vCenter=true&width=600&lines=The+day+is+yours...;Seize+it+with+both+hands.;Carpe+Diem." alt="Final poetic animation" />
-</p>
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iNmE1YzM3cW5lNHBxeWQzaTdzaDQyN243Z3BvaW5seWI2eGNnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiPB21AVCQbMYI0dwm/giphy.gif" />
-</p>
-
----
-
-<p align="center">
-  <sub>✨ “For those who dare to dream beyond syntax.” ✨</sub>
 </p>
 
