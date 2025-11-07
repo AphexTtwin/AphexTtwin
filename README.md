@@ -1,5 +1,9 @@
 <!-- 🌌 GITHUB PROFILE README – "Carpe Diem" Inspired by Dead Poets Society -->
 
+> ⚠️ **IMPORTANT:** This profile README is not displaying because the repository name doesn't match your GitHub username.  
+> **To fix:** Rename this repository from `ReadME` to `AphexTtwin` in the repository settings.  
+> See [HOW_TO_FIX.md](./HOW_TO_FIX.md) for detailed instructions.
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F9D71C&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Hamza+Allaoui.;A+dreamer+in+logic%2C+a+poet+in+code.;We+write+to+feel+alive." alt="Typing SVG" />
 </p>
