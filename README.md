@@ -8,8 +8,6 @@
 
 ### 🌙 *"We don't write code to exist — we code to live a thousand lives."*
 
-> *“No matter what anybody tells you, words and ideas can change the world.”*  
-> — *Dead Poets Society*
 
 I’m **Hamza Allaoui**, a dreamer who found rhythm in logic,  
 a poet in the syntax of C, a believer in *craft over shortcuts.*
