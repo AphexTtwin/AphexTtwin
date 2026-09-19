@@ -10,7 +10,7 @@
 
 
 I’m **Hamza Allaoui**, a dreamer who found rhythm in logic,  
-a poet in the syntax of C, a believer in *craft over shortcuts.*
+a poet in the syntax's, a believer in *craft over shortcuts.*
 
 🧠 I build things that **make sense**, **move people**, and **last.**  
 🔥 I chase the perfect balance between *creativity* and *precision.*  
